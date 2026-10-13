@@ -4,3 +4,6 @@ __pycache__/
 
 # Wordt door de cursist zelf gegenereerd tijdens fase 3 / het eindproject
 gemaakt_rooster.csv
+
+# Eigen instellingen van de cursist in Claude Code
+.claude/settings.local.json

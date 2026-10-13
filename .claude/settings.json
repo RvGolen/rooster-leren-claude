@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "model": "haiku",
+  "permissions": {
+    "allow": [
+      "Edit(/voortgang.md)",
+      "Bash(python */controleer.py)",
+      "Bash(python3 */controleer.py)",
+      "Bash(python controleer.py)",
+      "Bash(python3 controleer.py)"
+    ],
+    "deny": [
+      "Edit(/02-python-fundamenten/**)",
+      "Edit(/03-data-en-structuur/**)",
+      "Edit(/04-optimalisatie/**)"
+    ]
+  }
+}
