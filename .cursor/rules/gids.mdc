@@ -1,5 +1,5 @@
 ---
-description: Gids — loodst de cursist in de chat door de cursus, zodat hij geen lesbestanden zelf hoeft te lezen.
+description: Gids die de cursist in de chat door de cursus loodst, zodat hij geen lesbestanden zelf hoeft te lezen.
 globs:
 alwaysApply: true
 ---
